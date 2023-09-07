@@ -34,5 +34,6 @@ Linear regression is used for several purposes, including:
 Linear regression is a foundational and widely used statistical technique because of its simplicity, interpretability, and versatility. However, it's important to note that it makes certain assumptions about the data, such as linearity and constant variance of errors, which should be checked and, if violated, may require the use of other regression techniques or data transformations.
 
 
+![image](https://github.com/divyanshsahu2020/Linear-Regression/assets/80671629/27d54889-3e40-44c6-b5d6-175775df7215)
 
 
